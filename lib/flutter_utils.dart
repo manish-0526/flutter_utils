@@ -10,7 +10,6 @@ export 'src/extensions/duration_extensions.dart';
 
 export 'src/pages/theme_viewer.dart';
 
-export 'src/services/io_service.dart';
 export 'src/services/snackbar_service.dart';
 
 export 'src/utils/json/json_utils.dart';
